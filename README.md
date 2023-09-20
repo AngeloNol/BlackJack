@@ -7,6 +7,7 @@ BlackJack is a two-player game where you use 52 cards. The first person to get t
 # Components
 Software:
 * Intel Quartus Prime
+  
 * Modelsim
   
 Hardware:
