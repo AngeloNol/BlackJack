@@ -1,0 +1,18 @@
+
+State Machine - |black_wrapper|black:b|nextstate
+Name nextstate.S5 nextstate.S4 nextstate.S3 nextstate.S2 nextstate.S1 nextstate.S0 
+nextstate.S0 0 0 0 0 0 0 
+nextstate.S1 0 0 0 0 1 1 
+nextstate.S2 0 0 0 1 0 1 
+nextstate.S3 0 0 1 0 0 1 
+nextstate.S4 0 1 0 0 0 1 
+nextstate.S5 1 0 0 0 0 1 
+
+State Machine - |black_wrapper|black:b|state
+Name state.S5 state.S4 state.S3 state.S2 state.S1 state.S0 
+state.S0 0 0 0 0 0 0 
+state.S1 0 0 0 0 1 1 
+state.S2 0 0 0 1 0 1 
+state.S3 0 0 1 0 0 1 
+state.S4 0 1 0 0 0 1 
+state.S5 1 0 0 0 0 1 
