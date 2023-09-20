@@ -9,4 +9,5 @@ Software:
 * Intel Quartus Prime
 * Modelsim
 Hardware:
-*Altera DE2-115 Development and Education Board
+
+* Altera DE2-115 Development and Education Board
